@@ -29,15 +29,15 @@ This project demonstrates object-oriented programming, REST API integration, JSO
 
 ### Home Screen
 
-![Home Screen](images/home.png)
+![Home Screen](screenshots/home.png)
 
 ### Product Search
 
-![Product Search](images/search.png)
+![Product Search](screenshots/search.png)
 
 ### Music Recommendations
 
-![Music Recommendations](images/results.png)
+![Music Recommendations](screenshots/results.png)
 
 ---
 
