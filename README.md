@@ -1,6 +1,6 @@
 # 💄 Makeup & Music Finder
 
-![Application Home](images/home.png)
+![Application Home](screenshots/home.png)
 
 A JavaFX desktop application that integrates the Makeup API and iTunes Search API to generate music recommendations based on user-selected makeup products.
 
