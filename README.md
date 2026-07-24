@@ -37,7 +37,7 @@ This project demonstrates object-oriented programming, REST API integration, JSO
 
 ### Music Recommendations
 
-![Music Recommendations](screenshots/results.png)
+![Music Recommendations](screenshots/Recommendations.png)
 
 ---
 
