@@ -33,7 +33,7 @@ This project demonstrates object-oriented programming, REST API integration, JSO
 
 ### Product Search
 
-![Product Search](screenshots/search.png)
+![Product Search](screenshots/Search.png)
 
 ### Music Recommendations
 
